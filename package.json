@@ -1,6 +1,6 @@
 {
   "name": "react-youtube",
-  "version": "7.2.0",
+  "version": "7.2.902",
   "description": "react.js powered YouTube player component",
   "main": "dist/YouTube.js",
   "repository": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/compedit/react-youtube",
   "dependencies": {
     "lodash.isequal": "^4.0.0",
-    "youtube-player": "^3.0.0"
+    "youtube-player": "git+https://github.com/FLM/youtube-player.git#ca4811d5"
   },
   "devDependencies": {
     "babel-cli": "^6.1.2",
